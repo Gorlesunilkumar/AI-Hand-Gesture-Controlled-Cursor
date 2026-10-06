@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Generated files
+*.log
+
+# Camera / temporary files
+*.mp4
+*.avi
+
+# Build files
+build/
+dist/
+*.spec
